@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "BantrungWeb.data.unityweb",
+"asmCodeUrl": "BantrungWeb.asm.code.unityweb",
+"asmMemoryUrl": "BantrungWeb.asm.memory.unityweb",
+"asmFrameworkUrl": "BantrungWeb.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FDFFE0"
+}
